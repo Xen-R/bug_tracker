@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    background: white;
+    text-decoration:none;
+}
+a{
+    text-decoration:none;
+    font-size:50pt;
+    padding:20px;
+    color: black;
+}
+h1{
+    font-size:14pt;
+    text-align: center;
+    color: black;
+    margin-bottom:7pt;
+}
+p{
+    font-size:12pt;
+    text-align: center;
+    color: black;
+    margin-bottom:5pt;
+}
+
+input[type="text"], input[type="password"], input[type="radio"], input[type="submit"]{
+    border:0;
+    background:darkgray;
+    display:block;
+    margin:10px auto;
+    text-align:center;
+    border: 2px solid white;
+    padding:14px 10px;
+    width:100%;
+    outline:none;
+    color:black;
+}
+input[type="submit"] {
+    border: 0;
+    background:darkgray;
+    display:block;
+    margin:10px auto;
+    text-align:center;
+    border: 2px solid white;
+    padding:14px 40px;
+    width:100%;
+    outline:none;
+    color:black;
+    cursor:pointer;
+}

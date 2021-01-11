@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet" href="add.css"></head>
+<body>
+<form  action="AddServlet" method="post">
+    <h1>Add tickets</h1>
+    <input type = "text" name="name_of" placeholder="name_of"><br>
+    <p><b>Bug or feature?</b><Br>
+        <input type="radio" name="value" value="bug"> i think it is bug...<Br>
+        <input type="radio" name="value" value="feature"> it's a feature, i swear<Br>
+    </p>
+    <p><b>Select priority:</b><Br>
+        <input type="radio" name="priority" value="low"> low<Br>
+        <input type="radio" name="priority" value="medium"> medium<Br>
+        <input type="radio" name="priority" value="high"> high<Br>
+    </p>
+    <input type="text" name="responsible"placeholder="responsible"><br>
+    <input type="text" name="description"placeholder="description"><br>
+    <input type="text" name="solution"placeholder="solution"><br>
+    <input type="submit" value="add">
+</form>
+</body></html>

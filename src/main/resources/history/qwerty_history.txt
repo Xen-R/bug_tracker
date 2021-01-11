@@ -1,0 +1,5 @@
+Abc: created ticket.
+Abc: changed name from third_try to qwerty
+Triss: changed responsible from no_resp to Abc
+Abc: moved ticket to the archieve
+

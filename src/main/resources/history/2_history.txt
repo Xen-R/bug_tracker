@@ -1,0 +1,8 @@
+Triss: created ticket.
+Triss: changed responsible from no_resp to Cde
+Triss: changed description from sample text. to some great bug
+Triss: changed solutions from - to give this task to Cde...
+Triss: added heh to description
+Triss: added he'll cope with it, i'm sure to solutions
+Triss: moved ticket to the archieve
+

@@ -1,0 +1,5 @@
+Triss: created ticket.
+Triss: changed value from bug to feature
+Triss: added  after all i can add some text to description... nice to description
+Triss: moved ticket to the archiee
+

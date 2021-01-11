@@ -1,0 +1,74 @@
+.block-1 {position:fixed;left:0;top:0;width:50%;height:50%;background:white;color:#000000;overflow:scroll;}
+.block-2 {position:fixed;right:0;top:0;width:50%;height:100%;background:lightsteelblue;color:#000000;overflow:scroll;}
+.block-3 {position:fixed;left:0;top:50%;width:50%;height:50%;background:white;color:#000000;overflow:scroll;}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    /*убираем пустые промежутки между ячейками*/
+    border: 10px solid white;
+    /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+}
+td {
+    width: 33%;
+    padding: 10px 15px;
+    background: lightgray;
+    border: 3px solid white;
+    color: black;
+}
+
+tr{
+    background: lightgray;
+    border: 3px solid white;
+    color: black;
+}
+h1{
+    font-size:15pt;
+    text-align: center;
+    color: #000000;
+    margin-bottom:5pt;
+}
+p{
+    font-size:12pt;
+    text-align: center;
+    color: #000000;
+    margin-bottom:5pt;
+}
+input[type="submit"] {
+    border: 0;
+    background:darkgray;
+    display:block;
+    margin:5px auto;
+    text-align:center;
+    border: 2px solid white;
+    padding:7px 20px;
+    width:200px;
+    outline:none;
+    color:black;
+    cursor:pointer;
+}
+
+button[type="submit"] {
+    border: 0;
+    background:darkgray;
+    display:block;
+    margin:5px auto;
+    text-align:center;
+    border: 2px solid white;
+    padding:7px 20px;
+    width:200px;
+    outline:none;
+    color:black;
+    cursor:pointer;
+}
+input[type="text"]{
+    border:0;
+    background:darkgray;
+    display:block;
+    margin:10px auto;
+    text-align:center;
+    border: 2px solid white;
+    padding:14px 10px;
+    width:50%;
+    outline:none;
+    color:black;
+}

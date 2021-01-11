@@ -1,0 +1,8 @@
+3 09.01.2021 bug high no_resp ^sample text.^ ~-~
+4 09.01.2021 feature low no_resp ^sample text.^ ~-~
+5 09.01.2021 feature medium no_resp ^sample text.^ ~-~
+6 09.01.2021 feature high no_resp ^sample text.^ ~-~
+dfdfdf 09.01.2021 bug low Triss ^sample text.^ ~-~
+1 09.01.2021 bug low no_resp ^gkkgkgk^ ~-~
+sample 09.01.2021 bug low Bcd ^sample text.^ ~-~
+nothing_important 09.01.2021 feature high Triss ^New description^ ~New solution~

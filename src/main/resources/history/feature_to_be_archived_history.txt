@@ -1,0 +1,5 @@
+Triss: created ticket.
+Triss: changed description from heh... clueless to or... maybe... ugh, clueless, as i said before
+Triss: changed solutions from - to remove it to archieve
+Abc: moved ticket to the archieve
+

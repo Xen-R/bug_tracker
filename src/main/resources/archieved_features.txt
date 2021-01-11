@@ -1,0 +1,2 @@
+feature_to_be_archived 09.01.2021 feature high no_resp ^or... maybe... ugh, clueless, as i said before^ ~remove it to archieve~
+generic_bug 09.01.2021 feature medium Triss ^ordinary&annoying: appears unexpectedly, does some small silly stuff, hides from debugging after all i can add some text to description... nice^ ~-~

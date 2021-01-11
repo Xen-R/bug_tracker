@@ -1,0 +1,9 @@
+Triss: created ticket.
+Abc: changed priority from low to high
+Abc: changed responsible from Abc to Triss
+Abc: changed description from sample text. to New description
+Abc: changed solutions from - to New solution
+Triss: changed name from dfdfd to vkv
+Triss: changed name from vkv to nothing_interesting
+Triss: changed name from nothing_interesting to nothing_important
+

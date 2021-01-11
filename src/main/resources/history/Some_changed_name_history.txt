@@ -1,0 +1,5 @@
+Abc: created ticket.
+Abc: changed name from Some_bug to Some_changed_name
+Abc: moved ticket to the archieve
+Triss: moved ticket to the archieve
+

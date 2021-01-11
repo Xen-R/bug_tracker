@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet" href="add.css"></head>
+<body>
+<form action="EditServlet" method="post">
+    <h1>Edit ticket</h1>
+
+    <p><b>change name(note: name must be unique):</b><Br>
+    <input type = "text" name="new_name" placeholder="new_name"><br>
+    <p><b>change value(use arrows to switch between variants):</b><Br>
+    <p><select size="1" multiple name="new_value">
+    <option disabled>unchanged</option>
+    <option selected value="leave_unchanged">don't change</option>
+    <option value="bug">bug</option>
+    <option value="feature">feature</option>
+    </select></p>
+    <p><b>change priority(use arrows to switch between variants):</b><Br>
+    <p><select size="1" multiple name="new_priority">
+        <option disabled>unchanged</option>
+        <option selected value="leave_unchanged">don't change</option>
+        <option value="low">low</option>
+        <option value="medium">medium</option>
+        <option value="high">high</option>
+    </select></p>
+    <p><b>change responsible(note: it must be registred user):</b><Br>
+    <input type="text" name="responsible"placeholder="responsible"><br>
+    <p><b>change description:</b><Br>
+    <p><b>if you'll like to overwrite the description field, press here:</b><Br>
+        <input type="radio" name="change_descr_mode" value="overwrite"> overwrite<Br>
+    </p>
+    <input type="text" name="description"placeholder="description"><br>
+
+    <p><b>change solutions:</b><Br>
+    <p><b>if you'll like to overwrite the solution field, press here:</b><Br>
+        <input type="radio" name="change_sol_mode" value="overwrite"> overwrite<Br>
+    </p>
+    <input type="text" name="solution"placeholder="solution"><br>
+    <input type="submit" name = "${name}" value= "${name}">\n">
+</form>
+</body></html>
